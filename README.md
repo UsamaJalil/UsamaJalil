@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Usama Jalil Malik
 #### I am Unity Game Developer and CG Artist
-![I am Unity Game Developer and CG Artist](![Header](./your-header-image-name.png))
+![I am Unity Game Developer and CG Artist](![Header]("C:\Users\Zestro Gaming\Downloads\github-header-image.png"))
 
 I am an experienced game developer with over three years of expertise in crafting immersive and captivating gaming experiences.
 
